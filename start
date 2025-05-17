@@ -1,5 +1,4 @@
 #!/bin/sh
-echo "Make by the TNT-Galaxy bin-maker"
 HOST=$1
 BASEDIR=$2
 NUM=$3
